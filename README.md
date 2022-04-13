@@ -1,1 +1,1 @@
-# RJing2724
+# This is a temperature calculator
